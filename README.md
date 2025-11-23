@@ -1,5 +1,7 @@
 # Ollama MCP GUI
 
+![Application Screenshot](Capture.JPG)
+
 This project provides a graphical user interface (GUI) for interacting with local Ollama models and performing file analysis. It also includes a server component for handling file system operations in a containerized environment.
 
 ## Features

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/portfolio-preview.jpg" alt="Ollama MCP GUI — local model chat and file analysis" width="100%">
+</p>
+
 # Ollama MCP GUI
 
 ![Application Screenshot](Capture.JPG)
